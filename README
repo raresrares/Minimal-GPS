@@ -1,0 +1,22 @@
+Stanca Aurelian Rares - 324CB - Tema 1 POO - Noiembrie 2020
+
+Am folosit 4 clase si 4 interfete. 
+
+In clasa Harta fac most of the stuff. Cu metoda createHarta() construiesc
+efectiv graful si execut comenzile din map.in cu ajutorul metodelor
+addRestriction(...) si drive(...).
+
+Pentru drive ma mai folosesc si de findStrada(...), minDistance(...),
+cost(...) si writeRide(...). writeRide(...) scrie in map.out ride-ul
+efectuat in urma rularii comenzii drive.
+
+Mai folosesc si Strada & Nod pentru modelarea strazii si nodurilor.
+
+Folosesc si 4 interfete pentru cele 4 tipuri de vehicule, in care
+tin gabaritul si costul fiecaruia.
+
+Sper ca e destul de straightforward totul si codul e curat.
+
+Dificultate tema: destul de usor
+Timp de lucru: 4/5 ore at max
+Feedback: none, a fost draguta
