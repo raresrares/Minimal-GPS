@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Autoturism"},{"p":"<Unnamed>","l":"Bicicleta"},{"p":"<Unnamed>","l":"Camion"},{"p":"<Unnamed>","l":"Harta"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Motocicleta"},{"p":"<Unnamed>","l":"Nod"},{"p":"<Unnamed>","l":"Strada"}]
